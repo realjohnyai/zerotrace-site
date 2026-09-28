@@ -1,0 +1,7 @@
+{
+  "name": "zerotrace-site",
+  "private": true,
+  "scripts": {
+    "dev": "npx -y live-server@1.2.2 --port=5500"
+  }
+}
